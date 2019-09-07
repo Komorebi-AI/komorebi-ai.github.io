@@ -18,7 +18,7 @@ title: Contact
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 
-<script src="assets/js/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
