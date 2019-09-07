@@ -11,7 +11,7 @@ description: The Decision Making Company
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://komorebi-ai.github.io"
+url: "https://komorebi-ai.ml"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -116,7 +116,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "komorebi-ai.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "komorebi-ai.ml"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
