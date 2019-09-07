@@ -4,14 +4,7 @@ title: Contact
 # subtitle: Data Scientist and PhD Student
 ---
 
-<script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript">var submitted=false;</script>
-<script type="text/javascript">
-$('#gform').on('submit', function(e) {
-  $('#gform *').fadeOut(2000);
-  $('#gform').prepend('Your submission has been processed. We will get in touch soon!');
-  });
-</script>
+
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdi62jROrimTz7VHFQvCn8LQkxtLCFDrWrhidy4zE0YzhQwIA/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
   Name:<br>
@@ -24,3 +17,12 @@ $('#gform').on('submit', function(e) {
 </form>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed. We will get in touch soon!');
+  });
+</script>
