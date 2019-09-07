@@ -20,7 +20,8 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
+  Projects: "projects"
   Research: "research"
   Team: "team"
   Contact: "contact"
