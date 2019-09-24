@@ -5,4 +5,4 @@ title: Industrial projects
 ---
 
 
-<a href="http://carlitos.icmat.es/sample">Pruébame</a>
+<a href="http://carlitos.icmat.es/sample" rel="canonical">Pruébame</a>
