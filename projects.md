@@ -5,4 +5,4 @@ title: Industrial projects
 ---
 
 
-<a href="http://carlitos.icmat.es/sample" rel="canonical">Pruébame</a>
+<a href="http://sample.komorebi.dev/sample" rel="canonical">App en Django de prueba</a>
