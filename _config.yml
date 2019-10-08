@@ -11,10 +11,10 @@ description: The Decision Making Company
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://komorebi-ai.ml"
+url: "http://komoreb1-cp527.wordpresstemporal.com"
 
 # baseurl should be an empty string
-baseurl: ""
+baseurl: "komorebi.ai"
 
 # --- Navigation bar options --- #
 
@@ -118,7 +118,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "komorebi-ai.ml"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "komorebi.dev"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

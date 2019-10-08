@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Komorebi AI Technologies</title>
+    <description>The Decision Making Company</description>
+    <link>http://komoreb1-cp527.wordpresstemporal.com/komorebi.ai</link>
+    <atom:link href="http://komoreb1-cp527.wordpresstemporal.com/komorebi.ai/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome!</title>
+        <description>
+          
+          Welcome to our company site!
+
+        </description>
+        <pubDate>Wed, 04 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://komoreb1-cp527.wordpresstemporal.com/komorebi.ai/2019-09-04-first-post/</link>
+        <guid isPermaLink="true">http://komoreb1-cp527.wordpresstemporal.com/komorebi.ai/2019-09-04-first-post/</guid>
+      </item>
+    
+  </channel>
+</rss>

@@ -5,4 +5,4 @@ title: Industrial projects
 ---
 
 
-<a href="http://sample.komorebi.dev/sample" rel="canonical">App en Django de prueba</a>
+<a href="http://app.komorebi.dev/sample" rel="canonical">App en Django de prueba</a>
